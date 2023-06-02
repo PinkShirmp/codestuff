@@ -2,6 +2,10 @@
   "Codes":{
     "WELCOME26":{
       "Coins":100
+    },
+    "NINEELEVEN":{
+      "Coins":911
     }
+    
    }
 }
